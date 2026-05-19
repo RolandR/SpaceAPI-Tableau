@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.65561225"
-     inkscape:cx="321.07393"
-     inkscape:cy="741.29182"
+     inkscape:zoom="0.92717574"
+     inkscape:cx="534.41864"
+     inkscape:cy="408.76825"
      inkscape:window-width="1918"
      inkscape:window-height="1178"
      inkscape:window-x="1920"
@@ -317,6 +317,51 @@
        miter_limit="4"
        attempt_force_join="false"
        update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect8"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 | F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 | F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 | F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 | F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 | F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 | F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2 @ F,0,0,1,0,2,0,2"
+       radius="2"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="2"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect9"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 | F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 | F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 | F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 | F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 | F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 | F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 | F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 | F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 | F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 | F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 | F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 | F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1"
+       radius="2"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect7-6"
+       is_visible="true"
+       lpeversion="1.3"
+       linejoin_type="miter"
+       unit="mm"
+       offset="0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -361,7 +406,7 @@
        ry="10.919343" />
     <g
        id="g4818"
-       style="fill:#ff9c53;fill-opacity:1;stroke:none;stroke-width:1.91685;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:#ff9c53;fill-opacity:1;stroke:none;stroke-width:1.91685;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="matrix(0.13193437,0.01948636,-0.01948636,0.13193437,38.624337,26.555879)"
        inkscape:path-effect="#path-effect7">
       <path
@@ -1821,15 +1866,95 @@
        ry="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:5.76696px;line-height:125%;font-family:'Gravur Condensed';-inkscape-font-specification:'Gravur Condensed,  Bold Condensed';text-align:center;text-decoration-color:#000000;letter-spacing:0.661196px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.254307px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:5.76696px;line-height:100%;font-family:'Gravur Condensed';-inkscape-font-specification:'Gravur Condensed,  Bold Condensed';text-align:center;text-decoration-color:#000000;letter-spacing:0.66145833px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.254307px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
        x="26.353086"
        y="6.2211189"
        id="text8-1-3"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:5.76696px;font-family:'Gravur Condensed';-inkscape-font-specification:'Gravur Condensed,  Bold Condensed';text-align:center;letter-spacing:0.661196px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.254307px"
-         x="26.683683"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:5.76696px;font-family:'Gravur Condensed';-inkscape-font-specification:'Gravur Condensed,  Bold Condensed';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.254307px;line-height:100%;letter-spacing:0.66145833px"
+         x="26.683815"
          y="6.2211189"
          id="tspan7-3">IN BETRIEB</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:5.76696px;line-height:100%;font-family:'Gravur Condensed';-inkscape-font-specification:'Gravur Condensed,  Bold Condensed';text-align:center;text-decoration-color:#000000;letter-spacing:0.661458px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.254307px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       x="26.353086"
+       y="28.337639"
+       id="text52"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:5.76696px;line-height:100%;font-family:'Gravur Condensed';-inkscape-font-specification:'Gravur Condensed,  Bold Condensed';text-align:center;letter-spacing:0.661458px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.254307px"
+         x="26.353086"
+         y="28.337639"
+         id="tspan52">SCHALTER-</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:5.76696px;line-height:100%;font-family:'Gravur Condensed';-inkscape-font-specification:'Gravur Condensed,  Bold Condensed';text-align:center;letter-spacing:0.661458px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.254307px"
+         x="26.683815"
+         y="34.104599"
+         id="tspan59">POSITION!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:5.76696px;line-height:100%;font-family:'Gravur Condensed';-inkscape-font-specification:'Gravur Condensed,  Bold Condensed';text-align:center;text-decoration-color:#000000;letter-spacing:0.661458px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.254307px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       x="26.353086"
+       y="53.337639"
+       id="text54"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:5.76696px;line-height:100%;font-family:'Gravur Condensed';-inkscape-font-specification:'Gravur Condensed,  Bold Condensed';text-align:center;letter-spacing:0.661458px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.254307px"
+         x="26.353086"
+         y="53.337639"
+         id="tspan54">KATHODEN-</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:5.76696px;line-height:100%;font-family:'Gravur Condensed';-inkscape-font-specification:'Gravur Condensed,  Bold Condensed';text-align:center;letter-spacing:0.661458px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.254307px"
+         x="26.683815"
+         y="59.104599"
+         id="tspan63">PFLEGE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:5.76696px;line-height:100%;font-family:'Gravur Condensed';-inkscape-font-specification:'Gravur Condensed,  Bold Condensed';text-align:center;text-decoration-color:#000000;letter-spacing:0.661458px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.254307px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       x="196.967"
+       y="3.3376389"
+       id="text55"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:5.76696px;line-height:100%;font-family:'Gravur Condensed';-inkscape-font-specification:'Gravur Condensed,  Bold Condensed';text-align:center;letter-spacing:0.661458px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.254307px"
+         x="196.967"
+         y="3.3376389"
+         id="tspan55">NETZWERK-</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:5.76696px;line-height:100%;font-family:'Gravur Condensed';-inkscape-font-specification:'Gravur Condensed,  Bold Condensed';text-align:center;letter-spacing:0.661458px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.254307px"
+         x="197.29773"
+         y="9.104599"
+         id="tspan60">FEHLER</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:5.76696px;line-height:100%;font-family:'Gravur Condensed';-inkscape-font-specification:'Gravur Condensed,  Bold Condensed';text-align:center;text-decoration-color:#000000;letter-spacing:0.661458px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.254307px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       x="196.967"
+       y="28.337639"
+       id="text56"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:5.76696px;line-height:100%;font-family:'Gravur Condensed';-inkscape-font-specification:'Gravur Condensed,  Bold Condensed';text-align:center;letter-spacing:0.661458px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.254307px"
+         x="196.967"
+         y="28.337639"
+         id="tspan56">UNBEKANNTER</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:5.76696px;line-height:100%;font-family:'Gravur Condensed';-inkscape-font-specification:'Gravur Condensed,  Bold Condensed';text-align:center;letter-spacing:0.661458px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.254307px"
+         x="197.29773"
+         y="34.104599"
+         id="tspan61">FEHLER</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:5.76696px;line-height:100%;font-family:'Gravur Condensed';-inkscape-font-specification:'Gravur Condensed,  Bold Condensed';text-align:center;text-decoration-color:#000000;letter-spacing:0.661458px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.254307px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       x="196.967"
+       y="53.337639"
+       id="text58"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:5.76696px;line-height:100%;font-family:'Gravur Condensed';-inkscape-font-specification:'Gravur Condensed,  Bold Condensed';text-align:center;letter-spacing:0.661458px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.254307px"
+         x="196.967"
+         y="53.337639"
+         id="tspan58">VERARSCH</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:5.76696px;line-height:100%;font-family:'Gravur Condensed';-inkscape-font-specification:'Gravur Condensed,  Bold Condensed';text-align:center;letter-spacing:0.661458px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.254307px"
+         x="197.29773"
+         y="59.104599"
+         id="tspan62">MI NID</tspan></text>
   </g>
   <g
      inkscape:label="cut"
